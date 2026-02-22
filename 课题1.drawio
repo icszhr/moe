@@ -193,10 +193,10 @@
             <mxPoint x="380" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orYQ4Jcqc2GNXUyN_Q1d-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Fetch E2" vertex="1">
+        <mxCell id="orYQ4Jcqc2GNXUyN_Q1d-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="获取 E2" vertex="1">
           <mxGeometry height="22" width="65" x="515" y="238" as="geometry" />
         </mxCell>
-        <mxCell id="orYQ4Jcqc2GNXUyN_Q1d-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Fetch E2" vertex="1">
+        <mxCell id="orYQ4Jcqc2GNXUyN_Q1d-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="获取 E2" vertex="1">
           <mxGeometry height="22" width="65" x="515" y="170" as="geometry" />
         </mxCell>
       </root>
