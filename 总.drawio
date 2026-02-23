@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.2">
   <diagram name="第 1 页" id="aQsHQLIIYXvrG-3qOAjB">
-    <mxGraphModel dx="-935" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1307" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,7 +142,7 @@
           <mxGeometry height="34" width="37.22" x="1772.28" y="1206" as="geometry" />
         </mxCell>
         <mxCell id="JuMKRSChSTskdQ6xU8Bh-151" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.hellotech.com/blog/wp-content/uploads/2020/02/what-is-a-gpu.jpg;fontFamily=Helvetica;" value="" vertex="1">
-          <mxGeometry height="34" width="56.67" x="2169" y="1206" as="geometry" />
+          <mxGeometry height="34" width="56.67" x="2172.33" y="1206" as="geometry" />
         </mxCell>
         <mxCell id="JuMKRSChSTskdQ6xU8Bh-152" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CPU&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="12" width="37" x="1772.28" y="1240" as="geometry" />
